@@ -19,7 +19,7 @@
         class="btn-dark text-white"
         url="https://github.com/Roialfassi"
         icon="fab fa-github"
-        >My Profile</simple-button
+        >My Github</simple-button
       >
       <simple-button
         class="btn-outline-secondary"
