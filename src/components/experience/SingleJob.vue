@@ -12,7 +12,7 @@
       </h5>
       <ul data-aos="fade-left">
         <li v-for="desc in job.description" :key="desc.id">
-          {{ desc.description }};
+          {{ desc.description }}
         </li>
       </ul>
     </div>
