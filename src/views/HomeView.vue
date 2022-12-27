@@ -60,24 +60,24 @@ export default {
       delay: 100,
       links: [
         {
-          name: "home",
+          name: "Home",
           url: "#hero",
         },
         {
-          name: "skills",
+          name: "Skills",
           url: "#skills",
         },
         {
-          name: "experience",
+          name: "Experience",
           url: "#edu-exp",
         },
         {
-          name: "awards",
-          url: "#awards",
+          name: "Projects",
+          url: "#projects",
         },
         {
-          name: "projects",
-          url: "#projects",
+          name: "Education",
+          url: "#awards",
         },
       ],
       skills,
