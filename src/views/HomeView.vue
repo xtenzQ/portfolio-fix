@@ -64,12 +64,12 @@ export default {
           url: "#hero",
         },
         {
-          name: "Skills",
-          url: "#skills",
-        },
-        {
           name: "Experience",
           url: "#edu-exp",
+        },
+        {
+          name: "Skills",
+          url: "#skills",
         },
         {
           name: "Projects",

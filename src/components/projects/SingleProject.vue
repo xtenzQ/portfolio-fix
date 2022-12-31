@@ -1,8 +1,9 @@
 <template>
-  <router-link
-    to="/projects/single-project"
+  <a
+    :href="project.url"
     class="col-12 col-lg-4 mb-3 mb-md-5"
     aria-label="Single Project"
+    target="_blank"
   >
     <div
       class="card rounded-0 border-0 shadow-sm mb-lg-0"
@@ -40,7 +41,7 @@
       </div>
     </div>
     <!--//card-->
-  </router-link>
+  </a>
 </template>
 <script>
 export default {

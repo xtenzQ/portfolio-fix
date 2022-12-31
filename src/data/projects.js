@@ -30,9 +30,9 @@ const projects = [
   },
   {
     id: 4,
-    title: "NLP IL Index",
+    title: "NLP Hebrew Index",
     image: "nlpindex.png",
-    url: "https://roialfassi.github.io/ViZ_Project/",
+    url: "https://roialfassi.github.io/NLP-IL-INDEX/",
     category: "Web Development",
     tags: ["Vue.js", "HTML"],
     description:
@@ -41,7 +41,7 @@ const projects = [
   {
     id: 5,
     title: "NNLP-IL Blog",
-    image: "nlpB.png",
+    image: "blog.png",
     url: "https://nnlp-il.github.io/Blog/",
     category: "Web Development",
     tags: ["Jekyll"],
